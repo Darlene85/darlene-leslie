@@ -1,0 +1,65 @@
+/* navbar for all pages */
+.d{
+    height: 100px;
+    width: 100px;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+        color: hotpink;
+}
+
+/* index.html or homepage */
+.photo{
+    height: 500px;
+    width: 400px;
+}
+.col h1{
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 125px;
+}
+
+i{
+    margin: 10px;
+    color: black;
+}
+
+/* aboutme.html */
+.quote{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 40px;
+    padding-top: 45px;
+    text-align: center;
+}
+
+
+.card{
+    margin: 70px;
+}
+
+h5{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.card-img-top{
+    height: 190px;
+    width: 287px;
+}
+
+/* portfolio.html */
+
+/* resume.html */
+.resume{
+    height: 75%;
+    width: 75%;
+    margin: 150px;
+    padding:1px;
+    border:1px solid #021a40;
+   
+}
+
+
+  
